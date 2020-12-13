@@ -1,0 +1,22 @@
+{
+    "name": "VoiturePince",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "magig bit prueba": "github:tuxtomize/magig-bit-prueba#478e2c7f67df0c1255c2dce2d26cfacf1a6c68e2",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
